@@ -9,7 +9,7 @@ cd $CWD/../..
 ROOT=$PWD
 
 EXE=mkn
-KUL_GIT=master
+KUL_GIT=refac
 YAML_GIT=pr
 
 YAML_INC="ext/parse/yaml/$YAML_GIT/p/include"
